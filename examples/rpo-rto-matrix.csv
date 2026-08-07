@@ -1,0 +1,4 @@
+service,tier,rpo,rto,pattern
+payments-api,platinum,0,5m,active-active
+analytics,silver,1h,4h,pilot-light
+internal-wiki,bronze,24h,24h,backup-restore
